@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=umithavare&label=Profile%20views&color=0e75b6&style=flat" alt="umithavare" /> </p>
 
-- 🌱 I’m currently learning **spring boot**
+- 🌱 I’m currently learning **spring boot** and **.net**
 
 - 👨‍💻 All of my projects are available at [https://github.com/umithavare?tab=repositories](https://github.com/umithavare?tab=repositories)
 
