@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=umithavare&label=Profile%20views&color=0e75b6&style=flat" alt="umithavare" /> </p>
 
-- 🌱 I’m currently learning **vue.js** and **.net**
+- 🌱 I’m currently learning **vue.js**, and **.net**
 
 - 👨‍💻 All of my projects are available at [https://github.com/umithavare?tab=repositories](https://github.com/umithavare?tab=repositories)
 
 - 📝 I regularly write articles on [https://umithavare.wordpress.com/](https://umithavare.wordpress.com/)
 
-- 💬 Ask me about **java, c, html,css**
+- 💬 Ask me about **java, c, c#, html,css**
 
 - 📫 How to reach me **umithavare@gmail.com**
 
