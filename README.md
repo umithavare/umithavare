@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/umithavare?tab=repositories](https://github.com/umithavare?tab=repositories)
 
-- 📝 I regularly write articles on [https://umithavare.wordpress.com/](https://umithavare.wordpress.com/)
+- 📝 I regularly write articles on [https://medium.com/@umithavare16](https://medium.com/@umithavare16)
 
 - 💬 Ask me about **java, c, c#, html,css**
 
