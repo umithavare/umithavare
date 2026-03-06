@@ -1,82 +1,119 @@
-<h1 align="center">Hi 👋, I'm Ümit Havare</h1>
-<h3 align="center">A passionate backend developer from Turkey</h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=umithavare&label=Profile%20views&color=0e75b6&style=flat" alt="umithavare" /> </p>
+# Hey there! 👋 I'm **Ümit Havare**
 
-- 🌱 I’m currently learning **vue.js**, and **.net**
+### 🚀 Backend Developer | Turkey 🇹🇷
 
-- 👨‍💻 All of my projects are available at [https://github.com/umithavare?tab=repositories](https://github.com/umithavare?tab=repositories)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/umithavare)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@umithavare16)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/umithavare)
+[![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/17814385)
+[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/umithavare16)
+[![Profile Views](https://komarev.com/ghpvc/?username=umithavare&label=Profile%20Views&color=0e75b6&style=for-the-badge)](https://github.com/umithavare)
 
-- 📝 I regularly write articles on [https://medium.com/@umithavare16](https://medium.com/@umithavare16)
+</div>
 
-- 💬 Ask me about **java, c, c#, html,css**
+---
 
-- 📫 How to reach me **umithavare@gmail.com**
+## 🧑‍💻 About Me
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/umithavare" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="umithavare" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/17814385" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="17814385" height="30" width="40" /></a>
-<a href="https://instagram.com/umithavare" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="umithavare" height="30" width="40" /></a>
-<a href="https://medium.com/@umithavare16" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@umithavare16" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/umithavare16" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="umithavare16" height="30" width="40" /></a>
-</p>
+> 🎯 Passionate backend developer focused on building scalable and clean architectures.
+> 📍 Based in Turkey
+> 🔭 Currently diving deep into .NET ecosystem & Vue.js for full-stack capabilities.
+> 📝 I love sharing knowledge — check out my articles on Medium.
+> ☕ Firm believer that great code starts with great coffee.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
-  </a>
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-  </a>
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
-  </a>
-  <a href="https://redis.io/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/>
-  </a>
-  <a href="https://vuejs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/>
-  </a>
-  <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt=".net" width="40" height="40"/>
-  </a>
-  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">
-    <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/>
-  </a>
-</p>
+- 💼 Specialized in **backend development** with a strong foundation in **Java** and **C#/.NET**
+- 🌱 Currently expanding my skill set with **Vue.js** and **.NET**
+- 🧠 Always eager to learn new technologies and best practices
+- 📫 Reach me at **umithavare@gmail.com**
+- 💬 Ask me about **Java, C, C#, .NET, SQL, HTML/CSS**
 
+---
 
+## 🛠️ Tech Stack
 
-<h3 align="left">Support:</h3>
-<p>
-  <a href="https://www.buymeacoffee.com/umithavare"> 
-  <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="umithavare" />
-  </a>
-</p> <br><br><br>
+<div align="center">
 
-<p align="left"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=umithavare&show_icons=true&locale=en&layout=compact&theme=github_dark" alt="umithavare" /></p><br><br><br><br><br>
+### Languages
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-<p align="left">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=umithavare&show_icons=true&locale=en&theme=github_dark" alt="umithavare" /></p>
+### Frameworks & Libraries
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![HotChocolate](https://img.shields.io/badge/HotChocolate-512BD4?style=for-the-badge&logo=graphql&logoColor=white)
+![MassTransit](https://img.shields.io/badge/MassTransit-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white)
 
-<p align="left"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=umithavare&theme=github_dark" alt="umithavare" /></p>
+### Architecture & Messaging
+![Microservices](https://img.shields.io/badge/Microservices-FF6F00?style=for-the-badge&logo=microdotblog&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
 
+### Databases & Search
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![MSSQL](https://img.shields.io/badge/MSSQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
+
+### Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=umithavare&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=umithavare&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="umithavare" />
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=umithavare&theme=tokyonight&hide_border=true" />
+  <img width="49%" src="https://streak-stats.demolab.com/?user=umithavare&theme=tokyonight&hide_border=true" alt="umithavare" />
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=umithavare&layout=compact&theme=tokyonight&hide_border=true" />
+  <img width="40%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=umithavare&layout=compact&theme=tokyonight&hide_border=true" alt="umithavare" />
+</picture>
+
+</div>
+
+---
+
+## ✍️ Latest Blog Posts
+
+📌 Check out my articles on [Medium](https://medium.com/@umithavare16)
+
+---
+
+## 🤝 Let's Connect!
+
+<div align="center">
+
+I'm always open to collaborating on interesting projects and innovative ideas. If you have a cool project or just want to chat, feel free to reach out!
+
+📧 **umithavare@gmail.com**
+
+<a href="https://www.buymeacoffee.com/umithavare">
+  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy Me A Coffee" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
+</div>
