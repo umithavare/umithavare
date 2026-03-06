@@ -1,8 +1,13 @@
 <div align="center">
 
-# Hey there! 👋 I'm **Ümit Havare**
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:0d1117&height=220&section=header&text=Ümit%20Havare&fontSize=75&fontColor=70a5fd&fontAlignY=35&desc=Backend%20Developer%20%7C%20Turkey%20🇹🇷&descSize=20&descColor=38bdae&descAlignY=55&animation=fadeIn" width="100%"/>
 
-### 🚀 Backend Developer | Turkey 🇹🇷
+<!-- Typing Animation -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&repeat=true&random=false&width=600&height=35&lines=%F0%9F%94%A5+Building+Scalable+Backend+Systems;%F0%9F%9A%80+.NET+%7C+Java+%7C+Microservices+%7C+GraphQL;%F0%9F%92%A1+Clean+Architecture+%26+Distributed+Systems" alt="Typing SVG" />
+</a>
+
+<br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/umithavare)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@umithavare16)
@@ -15,19 +20,23 @@
 
 ---
 
-## 🧑‍💻 About Me
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> About Me
 
-> 🎯 Passionate backend developer focused on building scalable and clean architectures.
-> 📍 Based in Turkey
-> 🔭 Currently diving deep into .NET ecosystem & Vue.js for full-stack capabilities.
-> 📝 I love sharing knowledge — check out my articles on Medium.
-> ☕ Firm believer that great code starts with great coffee.
+```yaml
+name: Ümit Havare
+location: Turkey 🇹🇷
+role: Backend Developer
+currently_learning: [".NET Ecosystem", "Vue.js"]
+interests: ["Microservices", "Clean Architecture", "Distributed Systems"]
+fun_fact: "I debug faster after my morning coffee ☕"
+goal: "Building systems that scale and last."
+```
 
-- 💼 Specialized in **backend development** with a strong foundation in **Java** and **C#/.NET**
-- 🌱 Currently expanding my skill set with **Vue.js** and **.NET**
-- 🧠 Always eager to learn new technologies and best practices
+- 🔭 Currently diving deep into **.NET ecosystem** & **Vue.js** for full-stack capabilities
+- 🧠 Passionate about **microservices**, **message-driven architectures** & **scalable systems**
+- 📝 I love sharing knowledge — check out my articles on [Medium](https://medium.com/@umithavare16)
 - 📫 Reach me at **umithavare@gmail.com**
-- 💬 Ask me about **Java, C, C#, .NET, SQL, HTML/CSS**
+- 💬 Ask me about **Java, C#, .NET, SQL, GraphQL, RabbitMQ**
 
 ---
 
@@ -35,36 +44,34 @@
 
 <div align="center">
 
-### Languages
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+### 💻 Languages
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=java,cs,c,html,css&theme=dark" />
+</a>
 
-### Frameworks & Libraries
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
-![HotChocolate](https://img.shields.io/badge/HotChocolate-512BD4?style=for-the-badge&logo=graphql&logoColor=white)
-![MassTransit](https://img.shields.io/badge/MassTransit-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white)
+### ⚙️ Frameworks & Libraries
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=dotnet,vue,bootstrap,graphql&theme=dark" />
+</a>
 
-### Architecture & Messaging
-![Microservices](https://img.shields.io/badge/Microservices-FF6F00?style=for-the-badge&logo=microdotblog&logoColor=white)
-![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
+### 🗄️ Databases & Search
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,elasticsearch&theme=dark" />
+</a>
 
-### Databases & Search
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![MSSQL](https://img.shields.io/badge/MSSQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
+### 🔧 Tools & Messaging
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=git,github,rabbitmq&theme=dark" />
+</a>
 
-### Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+### 🏗️ Architecture & Patterns
+<p>
+  <img src="https://img.shields.io/badge/Microservices-FF6F00?style=for-the-badge&logo=microdotblog&logoColor=white" />
+  <img src="https://img.shields.io/badge/MassTransit-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/HotChocolate-512BD4?style=for-the-badge&logo=graphql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Clean_Architecture-00897B?style=for-the-badge&logo=architecture&logoColor=white" />
+  <img src="https://img.shields.io/badge/CQRS-6A1B9A?style=for-the-badge&logo=buffer&logoColor=white" />
+</p>
 
 </div>
 
@@ -75,26 +82,47 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=umithavare&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=umithavare&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="umithavare" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=umithavare&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117" />
+  <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=umithavare&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117" alt="umithavare" />
 </picture>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=umithavare&theme=tokyonight&hide_border=true" />
-  <img width="49%" src="https://streak-stats.demolab.com/?user=umithavare&theme=tokyonight&hide_border=true" alt="umithavare" />
-</picture>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=umithavare&layout=compact&theme=tokyonight&hide_border=true" />
-  <img width="40%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=umithavare&layout=compact&theme=tokyonight&hide_border=true" alt="umithavare" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=umithavare&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+  <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=umithavare&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="umithavare" />
 </picture>
 
 </div>
 
 ---
 
+## 📈 Activity Graph
+
+<div align="center">
+
+[![Ümit's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=umithavare&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=70a5fd&line=38bdae&point=70a5fd&area=true&area_color=38bdae)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+
+
+---
+
 ## ✍️ Latest Blog Posts
 
+<!-- BLOG-POST-LIST:START -->
 📌 Check out my articles on [Medium](https://medium.com/@umithavare16)
+<!-- BLOG-POST-LIST:END -->
+
+> 💡 **İpucu:** [blog-post-workflow](https://github.com/gautamkrishnar/blog-post-workflow) GitHub Action'ı ile Medium yazılarınız otomatik olarak burada listelenebilir!
+
+---
+
+## 💡 Random Dev Quote
+
+<div align="center">
+
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)](https://github.com/piyushsuthar/github-readme-quotes)
+
+</div>
 
 ---
 
@@ -115,5 +143,5 @@ I'm always open to collaborating on interesting projects and innovative ideas. I
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:0d1117&height=120&section=footer" width="100%"/>
 </div>
