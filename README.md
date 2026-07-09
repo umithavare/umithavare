@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:0d1117&height=220&section=header&text=Ümit%20Havare&fontSize=75&fontColor=70a5fd&fontAlignY=35&desc=Backend%20Developer%20%7C%20Turkey%20🇹🇷&descSize=20&descColor=38bdae&descAlignY=55&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:0d1117&height=220&section=header&text=Ümit%20Havare&fontSize=75&fontColor=70a5fd&fontAlignY=35&desc=FullStack%20Developer%20%7C%20Turkey%20🇹🇷&descSize=20&descColor=38bdae&descAlignY=55&animation=fadeIn" width="100%"/>
 
 <!-- Typing Animation -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&repeat=true&random=false&width=600&height=35&lines=%F0%9F%94%A5+Building+Scalable+Backend+Systems" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&repeat=true&random=false&width=600&height=35&lines=%F0%9F%94%A5+Building+Scalable+Systems" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -25,7 +25,7 @@
 ```yaml
 name: Ümit Havare
 location: Turkey 🇹🇷
-role: Backend Developer
+role: FullStack Developer
 currently_learning: [".NET Ecosystem", "Vue.js"]
 interests: ["Microservices", "Clean Architecture", "Distributed Systems"]
 fun_fact: "I debug faster after my morning coffee ☕"
