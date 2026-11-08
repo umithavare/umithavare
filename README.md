@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/header.svg" width="100%" alt="var umit = new Developer { Name = Ümit Havare, Role = Software Developer @ Wechip, Focus = Payment systems, Location = Istanbul }" />
+<img src="./assets/banner.svg" width="100%" alt="Ümit Havare. Software Developer at Wechip, Istanbul. Building payment infrastructure and backend systems on .NET" />
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/umithavare/)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@umithavare)
