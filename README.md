@@ -1,10 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:0d1117&height=220&section=header&text=%C3%9Cmit%20Havare&fontSize=75&fontColor=70a5fd&fontAlignY=35&desc=Software%20Developer%20%C2%B7%20.NET%20%C2%B7%20Payment%20Systems%20%C2%B7%20Istanbul&descSize=20&descColor=38bdae&descAlignY=55&animation=fadeIn" width="100%" alt="Ümit Havare"/>
-
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&repeat=true&width=640&height=35&lines=Building+scalable+.NET+backends;Payment+systems+%C2%B7+3D+Secure+%C2%B7+ISO+8583;Modular+monoliths+%26+microservices;Making+a+3D+mobile+RPG+in+Unity;Building+tools+for+AI+coding+agents" alt="Typing SVG" />
-</a>
+<img src="./assets/header.svg" width="100%" alt="var umit = new Developer { Name = Ümit Havare, Role = Software Developer @ Wechip, Stack = .NET, GraphQL, RabbitMQ, PostgreSQL, Focus = Payment systems, Location = Istanbul }" />
 
 <br/>
 
