@@ -22,7 +22,7 @@ jobs:
       # Add a STATS_TOKEN secret (classic PAT with repo + read:user) to include
       # private repositories; without it the cards fall back to public data only.
       - name: Stats card
-        uses: stats-organization/github-readme-stats-action@v2
+        uses: stats-organization/github-readme-stats-action@2c498845f71017821efaad14293ebc736156ef21 # v2.1.0
         with:
           card: stats
           options: username=${{ github.repository_owner }}&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&theme=tokyonight&hide_border=true&bg_color=0d1117&custom_title=%C3%9Cmit%20Havare%27s%20GitHub%20Stats
@@ -30,7 +30,7 @@ jobs:
           token: ${{ secrets.STATS_TOKEN || secrets.GITHUB_TOKEN }}
 
       - name: Top languages card
-        uses: stats-organization/github-readme-stats-action@v2
+        uses: stats-organization/github-readme-stats-action@2c498845f71017821efaad14293ebc736156ef21 # v2.1.0
         with:
           card: top-langs
           options: username=${{ github.repository_owner }}&layout=compact&langs_count=8&exclude_repo=evolutiondb&theme=tokyonight&hide_border=true&bg_color=0d1117
