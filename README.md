@@ -2,7 +2,7 @@
 
 <img src="./assets/header.svg" width="100%" alt="var umit = new Developer { Name = Ümit Havare, Role = Software Developer @ Wechip, Stack = .NET, GraphQL, RabbitMQ, PostgreSQL, Focus = Payment systems, Location = Istanbul }" />
 
-<br/>
+<br/><br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/umithavare/)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@umithavare)
