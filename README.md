@@ -122,9 +122,9 @@ fun_fact: "My first Java text adventure is turning into a 3D mobile game."
 ## ✍️ Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Resolvers, Relay & the Node Pattern — From Basics to Distributed GraphQL with Fusion](https://medium.com/@umithavare/resolvers-relay-the-node-pattern-from-basics-to-distributed-graphql-with-fusion-6fcb87edac19)
-- [Federating .NET GraphQL APIs Locally: A Fusion Guide for Schema Stitching](https://medium.com/@umithavare/federating-net-graphql-apis-locally-a-fusion-guide-for-schema-stitching-bb0a6495819c)
-- [Exploring PocketBase: The Lightweight and Open-Source Backend Solution for Modern Applications](https://medium.com/@umithavare/exploring-pocketbase-the-lightweight-and-open-source-backend-solution-for-modern-applications-1a4512b18743)
+- [Resolvers, Relay &amp; the Node Pattern — From Basics to Distributed GraphQL with Fusion](https://medium.com/@umithavare/resolvers-relay-the-node-pattern-from-basics-to-distributed-graphql-with-fusion-6fcb87edac19?source=rss-22f7fc910579------2)
+- [Federating .NET GraphQL APIs Locally: A Fusion Guide for Schema Stitching](https://medium.com/@umithavare/federating-net-graphql-apis-locally-a-fusion-guide-for-schema-stitching-bb0a6495819c?source=rss-22f7fc910579------2)
+- [Exploring PocketBase: The Lightweight and Open-Source Backend Solution for Modern Applications](https://medium.com/@umithavare/exploring-pocketbase-the-lightweight-and-open-source-backend-solution-for-modern-applications-1a4512b18743?source=rss-22f7fc910579------2)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [More on Medium](https://medium.com/@umithavare)
